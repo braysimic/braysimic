@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-🎓 Computer Science student at the University of Central Oklahoma
+My Name is Brayden Simic I'm a Computer Science student at the University of Central Oklahoma
 💡 Interested in all things C++, Python, Java, JavaScript, and HTML/CSS
 
 - 🔭 I’m currently working on building my [Portfolio](https://braysimic.github.io/BraydenSimic.github.io.1/), by creating full-stack applications using various languages and frameworks, and integrating databases such as ASP.NET Core MVC, React, SQLite, and Firebase.
