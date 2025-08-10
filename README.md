@@ -2,10 +2,10 @@
 
 I'm a Computer Science student at the University of Central Oklahoma
 
-- 💡 Interested in all things C++, Python, Java, JavaScript, and HTML/CSS
+- 💡 Interested in all things **C++, Python, Java, JavaScript, and HTML/CSS**
 
-- 🔭 I’m currently working on building my [Portfolio](https://braysimic.github.io/BraydenSimic.github.io.1/), by creating full-stack applications using various languages and frameworks, and integrating databases such as ASP.NET Core MVC, React, SQLite, and Firebase.
-- 🌱 I’m currently learning advanced data structures and algorithms, React, working with Firebase, and of course, grinding LeetCode  🙂
+- 🔭 I’m currently working on building my [Portfolio](https://braysimic.github.io/BraydenSimic.github.io.1/), by creating full-stack applications using various languages and frameworks, and integrating databases such as **ASP.NET Core MVC, React, SQLite**, and **Firebase**.
+- 🌱 I’m currently learning advanced data structures and algorithms, **React**, working with **Firebase**, and of course, grinding LeetCode  🙂
 - 📫 How to reach me:
   - Email: bray.simic@gmail.com 
   - Connect With Me! [Linkedin](https://www.linkedin.com/in/brayden-simic-a69537302/)
