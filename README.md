@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! 👋
 
 🎓 Computer Science student at the University of Central Oklahoma
 💡 Interested in all things C++, Python, Java, JavaScript, and HTML/CSS
