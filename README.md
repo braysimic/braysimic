@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning advanced data structures and algorithms, React, working with Firebase, and of course, grinding LeetCode  🙂
 - 📫 How to reach me:
   - Email: bray.simic@gmail.com 
-  - Phone: (405)-820-9362
   - Connect With Me! [Linkedin](https://www.linkedin.com/in/brayden-simic-a69537302/)
 
 <!--
